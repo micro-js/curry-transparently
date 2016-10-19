@@ -2,7 +2,7 @@
   "name": "@f/curry-transparently",
   "description": "Curry functions, but expose their accumulated arguments and underlying function so that they can be meaningfully compared against one another",
   "repository": "git://github.com/micro-js/curry-transparently.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
